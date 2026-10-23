@@ -1,0 +1,7 @@
+Keyboard input integration
+
+The keyboard input integration incorporates work by Spark198rus and contributors,
+under GPL-2.0-or-later.
+
+Upstream authors retain their copyrights.
+The project continues under GPL-2.0-or-later. See the accompanying GPL-2.0 license text.

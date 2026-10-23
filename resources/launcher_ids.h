@@ -1,0 +1,7 @@
+#pragma once
+#define IDD_LAUNCHER 200
+#define IDC_LANGUAGE 2101
+#define IDC_SAVE_PLAY 2201
+#define IDC_PLAY 2202
+#define IDC_DEFAULTS 2203
+#define IDC_PAGES 2204
